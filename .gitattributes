@@ -1,1 +1,1 @@
-*.jpg filter=lfs diff=lfs merge=lfs -text
+lfsm/* filter=lfs diff=lfs merge=lfs -text
